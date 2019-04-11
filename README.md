@@ -3,7 +3,7 @@ Tugas PBKK Project Spring MVC Application oleh Eko Puji Pramono (05111540000065)
 Aplikasi ini merupakan aplikasi buatan yang ditugaskan pada mata kuliah Pemrograman Berbasis Perangkat Lunak Kelas A. 
 
 ### Apa data yang harus dientry di dalam form?
-Data yang harus dimasukkan berupa data karakter yang ada di dalam permainan Tom Clancy's Rainbow Six: Siege. Data tersebut berisi atribut berupa ID, Code Name, Name, CTU, serta Stats. Untuk informasi lebih lengkap mengenai karakter dalam permainan Tom Clancy's Rainbow Six: Siege, anda dapat mengakses link berikut. 
+Data yang harus dimasukkan berupa data karakter yang ada di dalam permainan Tom Clancy's Rainbow Six: Siege. Data tersebut berisi atribut berupa ID, Code Name, Name, CTU, serta Stats. Untuk informasi lebih lengkap mengenai karakter dalam permainan Tom Clancy's Rainbow Six: Siege, anda dapat mengakses link [berikut](https://rainbow6.ubisoft.com/siege/en-us/game-info/operators.aspx). 
 
 ### Bagaimana data diproses pada controller?
 1. Controller membaca input dari form menggunakan request.getParameter(inputname)
