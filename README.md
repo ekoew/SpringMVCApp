@@ -11,3 +11,9 @@ Data yang harus dimasukkan berupa data karakter yang ada di dalam permainan Tom 
 
 ### Bagaimana controller mengirimkan data ke view ke halaman yang lain?
 Controller menunggu request dari view. Apabila view merequest sebuah data dengan atribut tertentu, maka data tersebut akan dikirimkan oleh controller. 
+
+### Screenshot Entry Form
+![alt text](https://github.com/ekoew/SpringMVCApp/blob/master/input.png?raw=true)
+
+### Screenshot Hasil Entry
+![alt text](https://github.com/ekoew/SpringMVCApp/blob/master/hasil.png?raw=true)
